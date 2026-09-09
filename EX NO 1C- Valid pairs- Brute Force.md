@@ -1,6 +1,6 @@
 # EX 1C Valid Pairs using Brute Force Approach
 
-## DATE: 09-09-2026
+## DATE: 27-07-2026
 
 ### Developed By: STARBIYA S
 
