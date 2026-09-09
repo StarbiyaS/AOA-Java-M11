@@ -1,6 +1,6 @@
 # EX 1D Sorted Array using Divide and Conquer Approach.
 
-## DATE: 09-09-2026
+## DATE: 27-07-2026
 
 ### Developed By: STARBIYA S
 
