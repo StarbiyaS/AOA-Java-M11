@@ -1,6 +1,6 @@
 # EX 1A Print All Numbers
 
-## DATE: 09-09-2026
+## DATE: 27-07-2026
 
 ### Developed By: STARBIYA S 
 
